@@ -3,7 +3,7 @@ package lksdk
 import (
 	"time"
 
-	"github.com/pion/webrtc/v3/pkg/media"
+	"github.com/icn-team/webrtc/v3/pkg/media"
 )
 
 type SampleProvider interface {

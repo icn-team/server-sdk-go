@@ -14,8 +14,8 @@ import (
 	"github.com/pion/rtp"
 	"github.com/pion/rtp/codecs"
 	"github.com/pion/sdp/v3"
-	"github.com/pion/webrtc/v3"
-	"github.com/pion/webrtc/v3/pkg/media"
+	"github.com/icn-team/webrtc/v3"
+	"github.com/icn-team/webrtc/v3/pkg/media"
 	"go.uber.org/atomic"
 )
 

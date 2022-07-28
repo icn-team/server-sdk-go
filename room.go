@@ -9,7 +9,7 @@ import (
 	"github.com/livekit/protocol/auth"
 	"github.com/livekit/protocol/livekit"
 	"github.com/pion/rtcp"
-	"github.com/pion/webrtc/v3"
+	"github.com/icn-team/webrtc/v3"
 	"github.com/thoas/go-funk"
 )
 

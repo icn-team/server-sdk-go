@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"strings"
 
-	"github.com/pion/webrtc/v3"
+	"github.com/icn-team/webrtc/v3"
 	"github.com/thoas/go-funk"
 
 	"github.com/livekit/protocol/livekit"

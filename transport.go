@@ -7,7 +7,7 @@ import (
 	"github.com/bep/debounce"
 	"github.com/pion/interceptor"
 	"github.com/pion/sdp/v3"
-	"github.com/pion/webrtc/v3"
+	"github.com/icn-team/webrtc/v3"
 )
 
 const (
